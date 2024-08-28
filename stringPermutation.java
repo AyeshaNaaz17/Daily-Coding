@@ -64,4 +64,4 @@ public class stringPermutation {
         System.out.println(checkPermutationBrute(str1, str2));
         System.out.println(checkPermutationOptimal(str1, str2));
     }
-}
+} 
