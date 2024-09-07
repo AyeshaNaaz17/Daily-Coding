@@ -58,8 +58,8 @@ public class twoSum {
     }
 
     public static void main(String[] args) {
-        int[] nums = {2, 7, 11, 15};
-        int target = 18;
+        int[] nums = {3, 4, 11, 15};
+        int target = 7;
 
         int[] res =twoSumBrute(nums, target);
         System.out.println("Brute Force Result: " + Arrays.toString(res));
