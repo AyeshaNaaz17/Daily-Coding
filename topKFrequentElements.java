@@ -30,6 +30,7 @@ public class topKFrequentElements {
 
     }
 
+    @SuppressWarnings("unchecked")
     public static int[] topKFrequentElementOptimal (int nums[], int k) {
         
         // HashMap to store the frequency of the elements
