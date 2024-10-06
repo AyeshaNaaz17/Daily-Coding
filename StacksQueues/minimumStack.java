@@ -1,3 +1,4 @@
+package StacksQueues;
 import java.util.Stack;
 
 /* Design a stack class that supports the push, pop, top, and getMin operations.

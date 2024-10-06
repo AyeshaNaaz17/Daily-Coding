@@ -1,3 +1,4 @@
+package StacksQueues;
 // import java.util.Stack;
 
 /* You are given an array of integers temperatures where temperatures[i] represents the daily temperatures on the ith day.

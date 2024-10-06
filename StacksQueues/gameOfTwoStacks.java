@@ -1,3 +1,4 @@
+package StacksQueues;
 import java.util.Arrays;
 
 /* Alexa has two stacks of non-negative integers, stack a and stack b where index 0 denotes the top of the stack. Alexa challenges Nick to play the following game:
