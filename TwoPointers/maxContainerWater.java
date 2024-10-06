@@ -1,3 +1,4 @@
+package TwoPointers;
 public class maxContainerWater {
 
 // You are given an integer array heights where heights[i] represents the height of the i'th bar.
