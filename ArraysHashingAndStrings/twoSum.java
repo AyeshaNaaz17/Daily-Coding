@@ -18,6 +18,7 @@ public class twoSum {
 
     public static int[] twoSumOptimized(int[] nums, int target) {
         
+        // number as key and it's key as value
         HashMap<Integer, Integer> hm = new HashMap<>();
 
         for (int i=0; i<nums.length; i++) {
@@ -27,6 +28,7 @@ public class twoSum {
 
             if (hm.containsKey(diff)) {
                 return new int[] {
+                    // gets the index of diff
                     hm.get(diff), i
                 };
             }
